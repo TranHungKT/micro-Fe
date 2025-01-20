@@ -15,6 +15,7 @@ const App = () => {
 
   return (
     <div>
+      <h1>Hi there</h1>
       <StylesProvider generateClassName={generateClassNames}>
         <BrowserRouter>
           <Switch>
